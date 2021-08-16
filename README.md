@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Techyvince
-- 👀 I’m interested in html, linux, css, phython & javascript.
+- 👀 I’m interested in html, linux, css, phython.
 - 🌱 I’m currently learning html & css.
 - 💞️ I’m looking to collaborate on html & css.
 - 📫 How to reach me ifezueprince@gmail.com
